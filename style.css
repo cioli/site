@@ -1,7 +1,13 @@
 .art-img {
     display: inline-block;
     border: 1px dashed;
-    padding: 5px;
+    width: 70px;
+    height: 70px;
+}
+li.art-img {
+    display: inline-block;
+    border: 1px dashed;
+    padding: 5px
     width: 70px;
     height: 70px;
 }
