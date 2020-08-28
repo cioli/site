@@ -1,13 +1,19 @@
-.art-img {
-    display: inline-block;
-    border: 1px dashed;
-    width: 70px;
-    height: 70px;
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ea4;
 }
-li.art-img {
+.main {
+    background-color: #F3CF75;
+    border-left: 1px solid #a06f00;
+    border-right: 1px solid #a06f00;
+}
+div#main-columns {
     display: inline-block;
-    border: 1px dashed;
-    padding: 5px
-    width: 70px;
-    height: 70px;
+}
+.primary {
+    width: 500px;
+}
+.secondary {
+    width: 200px;
 }
