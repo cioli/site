@@ -5,7 +5,6 @@ body {
     font-family: helvetica, "helvetica neue", arial, sans-serif;
 }
 .main {
-    background-color: #6a6969;
     padding: 5px 5px;
     border: 1px solid #2e2e2e;
     border-top: 1px dotted;
@@ -15,7 +14,6 @@ body {
 /* Columns */
 
 div#main-columns {
-    background-color: #bababa;
     padding: 2px;
     border: 2px solid #909090;
 }
@@ -51,7 +49,6 @@ ul {
 .head {
     display: inline-block;
     font-size: 30px;
-    background-image: linear-gradient(180deg, #2d2d2d, #1b1b1b);
     border: 1px solid #2e2e2e;
     border-radius: 10px 75px 0 0;
     padding: 10px;
